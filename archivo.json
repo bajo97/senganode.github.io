@@ -1,8 +1,9 @@
 [
   {
     "accion": "mensaje",
-    "texto":"La Version 1.2 ya esta Lista servidor mangafenix disponible",
-    "titulo":"Actualizacion"
+    "texto_a":"La Version 1.2 ya esta Lista servidor mangafenix disponible",
+    "titulo_a":"Actualizacion",
+    "version_a":"1.2"
     
     
     
