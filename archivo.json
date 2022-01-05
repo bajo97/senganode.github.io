@@ -1,13 +1,13 @@
 [
   {
     "accion_a": "1",
-    "texto_a":"La Version 1.2 ya esta Lista servidor mangafenix disponible visita la pagina https://bajo97.github.io/senganode.github.io y recuerden apoyar al proyecto con una donacion",
     "titulo_a":"Actualizacion",
+    "texto_a":"La Version 1.2 ya esta Lista servidor mangafenix disponible visita la pagina https://bajo97.github.io/senganode.github.io y recuerden apoyar al proyecto con una donacion",
     "version_a":"1.2",
     
     "accion_m":"0",
-    "texto_m":"",
-    "titulo_m":""
+    "titulo_m":"",
+    "texto_m":""  
     
     
   }
